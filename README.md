@@ -24,5 +24,4 @@ I am very pleased to have completed this project.
 
 
 #### Links:
-*  [Live Page Link](URL:https://cbv09.github.io/menu_com_flexbox/)
-
+*  [Live Page Link](https://cbv09.github.io/menu_com_flexbox/)
